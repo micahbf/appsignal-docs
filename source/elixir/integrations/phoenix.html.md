@@ -6,12 +6,12 @@ The AppSignal for Elixir package integrates with Phoenix. To set up the
 integration, please follow our [installation guide](/elixir/installation.html).
 
 This page will describe further ways of configuring AppSignal for the [Phoenix
-framework][phoenix]. To add more custom instrumentation to your Phoenix
+framework](https://www.phoenixframework.org/). To add more custom instrumentation to your Phoenix
 application, read the [Elixir
 instrumentation](/elixir/instrumentation/index.html) documentation.
 
 More information can be found in the [AppSignal Hex package
-documentation][hex-appsignal].
+documentation](https://hexdocs.pm/appsignal/).
 
 ## Installation
 
@@ -187,8 +187,3 @@ documentation for more information.
 [Add custom instrumentation](/elixir/instrumentation/instrumentation.html) to
 keep track of more complex code and get more complete breakdowns of slow
 requests.
-
-[phoenix]: http://www.phoenixframework.org/
-[hex-appsignal]: https://hexdocs.pm/appsignal/
-[hex-phoenix-channels]: https://hexdocs.pm/appsignal/Appsignal.Phoenix.Channel.html
-[sample_data]:/guides/custom-data/sample-data.html#elixir
